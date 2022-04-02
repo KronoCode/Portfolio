@@ -19,9 +19,9 @@ I have worked on multiple projects in electronics and pure programming such as :
 
 <img width="685" alt="Schermata 2022-04-02 alle 09 25 49" src="https://user-images.githubusercontent.com/96634620/161372258-19c211b4-f504-47a9-b190-717b4a6ca5d3.png">
 
+A simple ChatBot written in Python Vanilla where you can take appointments.
 
-
-
+###### School System Management : 
 
 
 
