@@ -25,13 +25,15 @@ A simple ChatBot written in Python Vanilla where you can take appointments.
 
 <img width="598" alt="Schermata 2022-04-02 alle 09 36 06" src="https://user-images.githubusercontent.com/96634620/161372388-51bec27a-3373-4e1a-8e42-9d4dc4391d65.png">
 
-A simple OOP project to be able to add,delete, show grade or show all the students in a grade.
+A simple OOP Python project to be able to add,delete, show grade or show all the students in a grade.
 
 ###### HMI and control of microprocessors PICOGRID:
 ```
-Realization of a scale model of a house powered by solar panel. Identification of the needs, implementation of an HMI and sizing of the system: solar panel, MPPT, battery.
+Realization of a scale model of a house powered by solar panel. 
+Identification of the needs, implementation of an HMI and sizing of the system: 
+solar panel, MPPT, battery etc.
 ```
-My role in the project was to program the microcontrollers to :
+My role in the project was to program the microcontrollers in C language to :
 
 * Display and use the battery level to switch to "Low Power Mode".
 * Program double PWMs to control transistors which will allow us to turn off power outlets or other features.
@@ -39,27 +41,7 @@ My role in the project was to program the microcontrollers to :
 * Display information on a 2x16 LED screen.
 
 
-# Header 1
-## Header 2
-### Header 3
+# Get in touch
 
-- Bulleted
-- List
+I'm currently looking for full-time Software Engineering Back-End Python Developer. f you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at, wassimzouhairi@gmail.com.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KronoCode/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
