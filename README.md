@@ -23,9 +23,20 @@ A simple ChatBot written in Python Vanilla where you can take appointments.
 
 ###### School System Management : 
 
+<img width="598" alt="Schermata 2022-04-02 alle 09 36 06" src="https://user-images.githubusercontent.com/96634620/161372388-51bec27a-3373-4e1a-8e42-9d4dc4391d65.png">
+A simple OOP project to be able to add,delete, show grade or show all the students in a grade.
 
+###### HMI and control of microprocessors PICOGRID:
+```
+Realization of a scale model of a house powered by solar panel. Identification of the needs, implementation of an HMI and sizing of the system: solar panel, MPPT, battery.
+```
+My role in the project was to program the microcontrollers to :
 
-Syntax highlighted code block
+* Display and use the battery level to switch to "Low Power Mode".
+* Program double PWMs to control transistors which will allow us to turn off power outlets or other features.
+* Pass information between microcontrollers by using i2C bus.
+* Display information on a 2x16 LED screen.
+
 
 # Header 1
 ## Header 2
