@@ -15,19 +15,19 @@ I was born in **Italy** and until my high-school diploma in an Italian school in
 
 I have worked on multiple projects in electronics and pure programming such as : 
 
-###### Simple ChatBot : 
+#### Simple ChatBot : 
 
 <img width="685" alt="Schermata 2022-04-02 alle 09 25 49" src="https://user-images.githubusercontent.com/96634620/161372258-19c211b4-f504-47a9-b190-717b4a6ca5d3.png">
 
 A simple ChatBot written in Python Vanilla where you can take appointments.
 
-###### School System Management : 
+#### School System Management : 
 
 <img width="598" alt="Schermata 2022-04-02 alle 09 36 06" src="https://user-images.githubusercontent.com/96634620/161372388-51bec27a-3373-4e1a-8e42-9d4dc4391d65.png">
 
 A simple OOP Python project to be able to add,delete, show grade or show all the students in a grade.
 
-###### HMI and control of microprocessors PICOGRID:
+#### HMI and control of microprocessors PICOGRID:
 ```
 Realization of a scale model of a house powered by solar panel. 
 Identification of the needs, implementation of an HMI and sizing of the system: 
