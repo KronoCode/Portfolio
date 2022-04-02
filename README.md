@@ -24,6 +24,7 @@ A simple ChatBot written in Python Vanilla where you can take appointments.
 ###### School System Management : 
 
 <img width="598" alt="Schermata 2022-04-02 alle 09 36 06" src="https://user-images.githubusercontent.com/96634620/161372388-51bec27a-3373-4e1a-8e42-9d4dc4391d65.png">
+
 A simple OOP project to be able to add,delete, show grade or show all the students in a grade.
 
 ###### HMI and control of microprocessors PICOGRID:
