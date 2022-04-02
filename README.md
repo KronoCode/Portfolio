@@ -4,12 +4,27 @@ I'm most passionate about changing the world with technology
 
 -----------------------------------------------------------
 
-### About Me
+# About Me
 
 I'm Wassim ZOUHAIRI, a graduate of 2021 from **INSA of Strasbourg** with a degree in **Electrical Engineering** which allies programming and devices using electricity and electronics. I'm most passionate about giving back to the community and as such programming, besides being my biggest passion, is the -- which most allows sharing and the growth of the community.
 I was born in **Italy** and until my high-school diploma in an Italian school in Morocco. As such i perfectly speak **Arabic, Italian, French and English**.
 
+-----------------------------------------------
+
+# Projects
+
+I have worked on multiple projects in electronics and pure programming such as : 
+
+###### Simple ChatBot : 
 ```markdown
+![Image](/Users/wassimzouhairi/Desktop/Schermata 2022-04-02 alle 09.25.49.png)
+
+
+
+
+
+
+
 Syntax highlighted code block
 
 # Header 1
