@@ -6,8 +6,8 @@ I'm most passionate about changing the world with technology
 
 # About Me
 
-I'm Wassim ZOUHAIRI, a graduate of 2021 from **INSA of Strasbourg** with a degree in **Electrical Engineering** which allies programming and devices using electricity and electronics. I'm most passionate about giving back to the community and as such programming, besides being my biggest passion, is the -- which most allows sharing and the growth of the community.
-I was born in **Italy** and until my high-school diploma in an Italian school in Morocco. As such i perfectly speak **Arabic, Italian, French and English**.
+I'm Wassim ZOUHAIRI, a graduate of 2021 from **INSA of Strasbourg** with a degree in **Electrical Engineering** which allies programming and devices using electricity and electronics. I'm most passionate about giving back to the community. As such, programming, besides being my biggest passion, is the tool which most allows sharing and the growth of communities all around the world.
+I was born in **Italy** and until my high-school diploma I attended an Italian school in Morocco. As such i perfectly speak **Arabic, Italian, French and English**.
 
 -----------------------------------------------
 
